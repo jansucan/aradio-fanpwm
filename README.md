@@ -1,3 +1,10 @@
+***
+
+**This is a frozen project. It is intended to provide authentic snapshot of the
+history with all the good things and all the things that could be improved.**
+
+***
+
 # Regulator of 4-wire PWM fans
 
 The article was published in April 2018 in Czech magazine [Praktická
